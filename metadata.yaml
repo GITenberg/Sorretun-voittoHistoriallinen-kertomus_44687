@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42879
     wikipedia: https://fi.wikipedia.org/wiki/Eva_Ljungberg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44687#Sorretun-voittoHistoriallinen-kertomus
 gutenberg_issued: '2014-01-17'
 gutenberg_type: Text
 identifiers:
